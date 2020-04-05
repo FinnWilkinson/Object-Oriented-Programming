@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="Player"/>
+<fullyQualifiedTypeName name="uk.ac.bris.cs.scotlandyard.model.Ticket"/>
+<fullyQualifiedTypeName name="uk.ac.bris.cs.scotlandyard.model.ScotlandYardPlayer"/>
+<fullyQualifiedTypeName name="uk.ac.bris.cs.scotlandyard.model.ScotlandYardModel"/>
+<fullyQualifiedTypeName name="uk.ac.bris.cs.gamekit.graph.Node"/>
+<fullyQualifiedTypeName name="uk.ac.bris.cs.gamekit.graph.Graph"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>
